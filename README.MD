@@ -20,7 +20,7 @@ This project presents a research-backed framework for recognizing math expressio
 - Feature extraction (aspect ratio, line elements, etc.)
 - Classification using distance-based methods
 
-![System Diagram](images/system_diagram.png)
+![System Diagram](system_diagram.png)
 
 ---
 
