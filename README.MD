@@ -2,7 +2,6 @@
 
 This repository documents the design and theoretical background of an image recognition system that detects and classifies **mathematical symbols** in documents, with the goal of converting them to digital formats like LaTeX or MathML.
 
-📄 Based on the report:  
 **"Exploring Image Recognition in Deciphering Mathematical Symbols"**  
 By Glawin John Alva.
 
