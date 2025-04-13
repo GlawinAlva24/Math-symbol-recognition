@@ -35,7 +35,7 @@ This project presents a research-backed framework for recognizing math expressio
 
 ## 📄 Report
 
-You can find the full technical report in the [`report/`](report/) folder:
+You can find the full technical report in the [`report/`](Main_Report) folder:
 - System architecture
 - Equations and algorithms
 - Examples and experiments
